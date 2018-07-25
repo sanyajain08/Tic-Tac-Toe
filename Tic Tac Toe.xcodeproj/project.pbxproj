@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		752C15F7210295D800587019 /* firstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 752C15F6210295D800587019 /* firstViewController.swift */; };
 		A2A4473220EE824900FFE633 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2A4473120EE824900FFE633 /* AppDelegate.swift */; };
 		A2A4473420EE824900FFE633 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2A4473320EE824900FFE633 /* ViewController.swift */; };
 		A2A4473720EE824900FFE633 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2A4473520EE824900FFE633 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		752C15F6210295D800587019 /* firstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = firstViewController.swift; sourceTree = "<group>"; };
 		A2A4472E20EE824900FFE633 /* Tic Tac Toe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Tic Tac Toe.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A2A4473120EE824900FFE633 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A2A4473320EE824900FFE633 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				A2A4473120EE824900FFE633 /* AppDelegate.swift */,
+				752C15F6210295D800587019 /* firstViewController.swift */,
 				A2A4473520EE824900FFE633 /* Main.storyboard */,
 				A2A4473320EE824900FFE633 /* ViewController.swift */,
 				A2A4474320EE961100FFE633 /* GridLabel.swift */,
@@ -141,6 +144,7 @@
 				A2A4474420EE961100FFE633 /* GridLabel.swift in Sources */,
 				A2A4473420EE824900FFE633 /* ViewController.swift in Sources */,
 				A2A4473220EE824900FFE633 /* AppDelegate.swift in Sources */,
+				752C15F7210295D800587019 /* firstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
